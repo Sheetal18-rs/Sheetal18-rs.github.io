@@ -10,7 +10,7 @@ img.src = src;
 };
 
 let imagePath = (frameNumber, animation) => {
-   return "C:/Users/Sheetal/Desktop/martial arts/images/"  + animation + "/" + frameNumber + ".png";
+   return "Sheetal18-rs.github.io/images/"  + animation + "/" + frameNumber + ".png";
 }
 
 let frames = {
