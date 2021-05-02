@@ -10,7 +10,7 @@ img.src = src;
 };
 
 let imagePath = (frameNumber, animation) => {
-   return "https://github.com/Sheetal18-rs/Sheetal18-rs.github.io/tree/main/images/"  + animation + "/" + frameNumber + ".png";
+   return "images/"  + animation + "/" + frameNumber + ".png";
 }
 
 let frames = {
