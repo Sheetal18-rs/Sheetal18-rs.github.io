@@ -10,7 +10,7 @@ img.src = src;
 };
 
 let imagePath = (frameNumber, animation) => {
-   return "https://github.com/Sheetal18-rs/Sheetal18-rs.github.io/blob/main/images/idle.png"  + animation + "/" + frameNumber + ".png";
+   return "C:/Users/Sheetal/Desktop/martial arts/images/"  + animation + "/" + frameNumber + ".png";
 }
 
 let frames = {
